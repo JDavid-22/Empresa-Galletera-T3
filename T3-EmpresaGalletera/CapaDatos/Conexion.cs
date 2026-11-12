@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Data.SqlClient;
+using Microsoft.Data.SqlClient;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -20,7 +20,7 @@ namespace CapaDatos
         public SqlConnection Conectar()
         {
             SqlConnection cn = new SqlConnection();
-            cn.ConnectionString = "Data Source=.\\SQLEXPRESS; Initial Catalog = BDMantenimiento; Integrated Security=true";
+            cn.ConnectionString = "Data Source=.\\SQLEXPRESS; Initial Catalog = BDMantenimiento; Integrated Security=true; TrustServerCertificate=True";
 
             return cn;
         }
