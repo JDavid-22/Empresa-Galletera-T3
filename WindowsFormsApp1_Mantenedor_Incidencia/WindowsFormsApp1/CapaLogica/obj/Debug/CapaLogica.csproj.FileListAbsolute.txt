@@ -1,0 +1,11 @@
+C:\Users\HP SUPPORT\Downloads\WindowsFormsApp1_Mantenedor_Incidencia\WindowsFormsApp1\CapaLogica\bin\Debug\CapaLogica.dll
+C:\Users\HP SUPPORT\Downloads\WindowsFormsApp1_Mantenedor_Incidencia\WindowsFormsApp1\CapaLogica\bin\Debug\CapaLogica.pdb
+C:\Users\HP SUPPORT\Downloads\WindowsFormsApp1_Mantenedor_Incidencia\WindowsFormsApp1\CapaLogica\bin\Debug\CapaDatos.dll
+C:\Users\HP SUPPORT\Downloads\WindowsFormsApp1_Mantenedor_Incidencia\WindowsFormsApp1\CapaLogica\bin\Debug\CapaIdentidad.dll
+C:\Users\HP SUPPORT\Downloads\WindowsFormsApp1_Mantenedor_Incidencia\WindowsFormsApp1\CapaLogica\bin\Debug\CapaDatos.pdb
+C:\Users\HP SUPPORT\Downloads\WindowsFormsApp1_Mantenedor_Incidencia\WindowsFormsApp1\CapaLogica\bin\Debug\CapaIdentidad.pdb
+C:\Users\HP SUPPORT\Downloads\WindowsFormsApp1_Mantenedor_Incidencia\WindowsFormsApp1\CapaLogica\obj\Debug\CapaLogica.csproj.AssemblyReference.cache
+C:\Users\HP SUPPORT\Downloads\WindowsFormsApp1_Mantenedor_Incidencia\WindowsFormsApp1\CapaLogica\obj\Debug\CapaLogica.csproj.CoreCompileInputs.cache
+C:\Users\HP SUPPORT\Downloads\WindowsFormsApp1_Mantenedor_Incidencia\WindowsFormsApp1\CapaLogica\obj\Debug\CapaLogica.csproj.Up2Date
+C:\Users\HP SUPPORT\Downloads\WindowsFormsApp1_Mantenedor_Incidencia\WindowsFormsApp1\CapaLogica\obj\Debug\CapaLogica.dll
+C:\Users\HP SUPPORT\Downloads\WindowsFormsApp1_Mantenedor_Incidencia\WindowsFormsApp1\CapaLogica\obj\Debug\CapaLogica.pdb

@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="CapaDatos/CapaDatos.csproj" Id="f7754628-1cde-4163-bc4f-7e9264c48460" />
+  <Project Path="CapaIdentidad/CapaIdentidad.csproj" Id="dc47a89d-3ed8-4479-bf65-40679e2fe684" />
+  <Project Path="CapaLogica/CapaLogica.csproj" Id="e91c9258-816b-40dd-8d82-1388f04ea053" />
+  <Project Path="WindowsFormsApp1/Detección automática de Incidencias.csproj" Id="4cd2ef43-2ae7-4d8b-bf52-80a216a6a438" />
+</Solution>
