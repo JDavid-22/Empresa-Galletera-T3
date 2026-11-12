@@ -1,0 +1,9 @@
+C:\CICLO6\Modelamiento y analisis de sofware\trabajos\AccionesPreventivas_funcional\AccionesPreventivas_reparado\AccionesPreventivas\CapaDatos\bin\Debug\CapaDatos.dll
+C:\CICLO6\Modelamiento y analisis de sofware\trabajos\AccionesPreventivas_funcional\AccionesPreventivas_reparado\AccionesPreventivas\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\CICLO6\Modelamiento y analisis de sofware\trabajos\AccionesPreventivas_funcional\AccionesPreventivas_reparado\AccionesPreventivas\CapaDatos\bin\Debug\CapaEntidad.dll
+C:\CICLO6\Modelamiento y analisis de sofware\trabajos\AccionesPreventivas_funcional\AccionesPreventivas_reparado\AccionesPreventivas\CapaDatos\bin\Debug\CapaEntidad.pdb
+C:\CICLO6\Modelamiento y analisis de sofware\trabajos\AccionesPreventivas_funcional\AccionesPreventivas_reparado\AccionesPreventivas\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\CICLO6\Modelamiento y analisis de sofware\trabajos\AccionesPreventivas_funcional\AccionesPreventivas_reparado\AccionesPreventivas\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\CICLO6\Modelamiento y analisis de sofware\trabajos\AccionesPreventivas_funcional\AccionesPreventivas_reparado\AccionesPreventivas\CapaDatos\obj\Debug\CapaDatos.csproj.Up2Date
+C:\CICLO6\Modelamiento y analisis de sofware\trabajos\AccionesPreventivas_funcional\AccionesPreventivas_reparado\AccionesPreventivas\CapaDatos\obj\Debug\CapaDatos.dll
+C:\CICLO6\Modelamiento y analisis de sofware\trabajos\AccionesPreventivas_funcional\AccionesPreventivas_reparado\AccionesPreventivas\CapaDatos\obj\Debug\CapaDatos.pdb

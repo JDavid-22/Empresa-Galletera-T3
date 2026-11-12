@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+	<PropertyGroup>
+		<OutputType>WinExe</OutputType>
+		<TargetFramework>net472</TargetFramework>
+		<UseWindowsForms>true</UseWindowsForms>
+		<LangVersion>latest</LangVersion>
+		<Nullable>disable</Nullable>
+		<EnableDefaultCompileItems>true</EnableDefaultCompileItems>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<Reference Include="System.Windows.Forms" />
+		<Reference Include="System.Drawing" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<ProjectReference Include="..\CapaEntidad\CapaEntidad.csproj" />
+		<ProjectReference Include="..\CapaDatos\CapaDatos.csproj" />
+		<ProjectReference Include="..\CapaLogica\CapaLogica.csproj" />
+	</ItemGroup>
+</Project>
+

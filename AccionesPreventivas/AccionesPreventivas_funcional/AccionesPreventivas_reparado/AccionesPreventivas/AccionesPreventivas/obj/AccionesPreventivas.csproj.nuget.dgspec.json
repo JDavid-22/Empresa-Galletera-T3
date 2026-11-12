@@ -1,0 +1,131 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\CICLO6\\Modelamiento y analisis de sofware\\trabajos\\AccionesPreventivas_funcional\\AccionesPreventivas_reparado\\AccionesPreventivas\\AccionesPreventivas\\AccionesPreventivas.csproj": {}
+  },
+  "projects": {
+    "C:\\CICLO6\\Modelamiento y analisis de sofware\\trabajos\\AccionesPreventivas_funcional\\AccionesPreventivas_reparado\\AccionesPreventivas\\AccionesPreventivas\\AccionesPreventivas.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\CICLO6\\Modelamiento y analisis de sofware\\trabajos\\AccionesPreventivas_funcional\\AccionesPreventivas_reparado\\AccionesPreventivas\\AccionesPreventivas\\AccionesPreventivas.csproj",
+        "projectName": "AccionesPreventivas",
+        "projectPath": "C:\\CICLO6\\Modelamiento y analisis de sofware\\trabajos\\AccionesPreventivas_funcional\\AccionesPreventivas_reparado\\AccionesPreventivas\\AccionesPreventivas\\AccionesPreventivas.csproj",
+        "packagesPath": "C:\\Users\\ALEX\\.nuget\\packages\\",
+        "outputPath": "C:\\CICLO6\\Modelamiento y analisis de sofware\\trabajos\\AccionesPreventivas_funcional\\AccionesPreventivas_reparado\\AccionesPreventivas\\AccionesPreventivas\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ALEX\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "targetAlias": "net472",
+            "projectReferences": {
+              "C:\\CICLO6\\Modelamiento y analisis de sofware\\trabajos\\AccionesPreventivas_funcional\\AccionesPreventivas_reparado\\AccionesPreventivas\\CapaDatos\\CapaDatos.csproj": {
+                "projectPath": "C:\\CICLO6\\Modelamiento y analisis de sofware\\trabajos\\AccionesPreventivas_funcional\\AccionesPreventivas_reparado\\AccionesPreventivas\\CapaDatos\\CapaDatos.csproj"
+              },
+              "C:\\CICLO6\\Modelamiento y analisis de sofware\\trabajos\\AccionesPreventivas_funcional\\AccionesPreventivas_reparado\\AccionesPreventivas\\CapaEntidad\\CapaEntidad.csproj": {
+                "projectPath": "C:\\CICLO6\\Modelamiento y analisis de sofware\\trabajos\\AccionesPreventivas_funcional\\AccionesPreventivas_reparado\\AccionesPreventivas\\CapaEntidad\\CapaEntidad.csproj"
+              },
+              "C:\\CICLO6\\Modelamiento y analisis de sofware\\trabajos\\AccionesPreventivas_funcional\\AccionesPreventivas_reparado\\AccionesPreventivas\\CapaLogica\\CapaLogica.csproj": {
+                "projectPath": "C:\\CICLO6\\Modelamiento y analisis de sofware\\trabajos\\AccionesPreventivas_funcional\\AccionesPreventivas_reparado\\AccionesPreventivas\\CapaLogica\\CapaLogica.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net472": {
+          "targetAlias": "net472",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.308\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\CICLO6\\Modelamiento y analisis de sofware\\trabajos\\AccionesPreventivas_funcional\\AccionesPreventivas_reparado\\AccionesPreventivas\\CapaDatos\\CapaDatos.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\CICLO6\\Modelamiento y analisis de sofware\\trabajos\\AccionesPreventivas_funcional\\AccionesPreventivas_reparado\\AccionesPreventivas\\CapaDatos\\CapaDatos.csproj",
+        "projectName": "CapaDatos",
+        "projectPath": "C:\\CICLO6\\Modelamiento y analisis de sofware\\trabajos\\AccionesPreventivas_funcional\\AccionesPreventivas_reparado\\AccionesPreventivas\\CapaDatos\\CapaDatos.csproj",
+        "UsingMicrosoftNETSdk": false,
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\CICLO6\\Modelamiento y analisis de sofware\\trabajos\\AccionesPreventivas_funcional\\AccionesPreventivas_reparado\\AccionesPreventivas\\CapaEntidad\\CapaEntidad.csproj": {
+                "projectPath": "C:\\CICLO6\\Modelamiento y analisis de sofware\\trabajos\\AccionesPreventivas_funcional\\AccionesPreventivas_reparado\\AccionesPreventivas\\CapaEntidad\\CapaEntidad.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\CICLO6\\Modelamiento y analisis de sofware\\trabajos\\AccionesPreventivas_funcional\\AccionesPreventivas_reparado\\AccionesPreventivas\\CapaEntidad\\CapaEntidad.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\CICLO6\\Modelamiento y analisis de sofware\\trabajos\\AccionesPreventivas_funcional\\AccionesPreventivas_reparado\\AccionesPreventivas\\CapaEntidad\\CapaEntidad.csproj",
+        "projectName": "CapaEntidad",
+        "projectPath": "C:\\CICLO6\\Modelamiento y analisis de sofware\\trabajos\\AccionesPreventivas_funcional\\AccionesPreventivas_reparado\\AccionesPreventivas\\CapaEntidad\\CapaEntidad.csproj",
+        "UsingMicrosoftNETSdk": false,
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\CICLO6\\Modelamiento y analisis de sofware\\trabajos\\AccionesPreventivas_funcional\\AccionesPreventivas_reparado\\AccionesPreventivas\\CapaLogica\\CapaLogica.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\CICLO6\\Modelamiento y analisis de sofware\\trabajos\\AccionesPreventivas_funcional\\AccionesPreventivas_reparado\\AccionesPreventivas\\CapaLogica\\CapaLogica.csproj",
+        "projectName": "CapaLogica",
+        "projectPath": "C:\\CICLO6\\Modelamiento y analisis de sofware\\trabajos\\AccionesPreventivas_funcional\\AccionesPreventivas_reparado\\AccionesPreventivas\\CapaLogica\\CapaLogica.csproj",
+        "UsingMicrosoftNETSdk": false,
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\CICLO6\\Modelamiento y analisis de sofware\\trabajos\\AccionesPreventivas_funcional\\AccionesPreventivas_reparado\\AccionesPreventivas\\CapaDatos\\CapaDatos.csproj": {
+                "projectPath": "C:\\CICLO6\\Modelamiento y analisis de sofware\\trabajos\\AccionesPreventivas_funcional\\AccionesPreventivas_reparado\\AccionesPreventivas\\CapaDatos\\CapaDatos.csproj"
+              },
+              "C:\\CICLO6\\Modelamiento y analisis de sofware\\trabajos\\AccionesPreventivas_funcional\\AccionesPreventivas_reparado\\AccionesPreventivas\\CapaEntidad\\CapaEntidad.csproj": {
+                "projectPath": "C:\\CICLO6\\Modelamiento y analisis de sofware\\trabajos\\AccionesPreventivas_funcional\\AccionesPreventivas_reparado\\AccionesPreventivas\\CapaEntidad\\CapaEntidad.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    }
+  }
+}
