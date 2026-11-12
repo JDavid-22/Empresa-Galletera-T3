@@ -14,3 +14,19 @@ C:\Users\HP SUPPORT\Downloads\WindowsFormsApp1_Mantenedor_Incidencia\WindowsForm
 C:\Users\HP SUPPORT\Downloads\WindowsFormsApp1_Mantenedor_Incidencia\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Detecci_.36FE7717.Up2Date
 C:\Users\HP SUPPORT\Downloads\WindowsFormsApp1_Mantenedor_Incidencia\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
 C:\Users\HP SUPPORT\Downloads\WindowsFormsApp1_Mantenedor_Incidencia\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\HP SUPPORT\source\repos\Empresa-Galletera-T3\WindowsFormsApp1_Mantenedor_Incidencia\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\HP SUPPORT\source\repos\Empresa-Galletera-T3\WindowsFormsApp1_Mantenedor_Incidencia\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\HP SUPPORT\source\repos\Empresa-Galletera-T3\WindowsFormsApp1_Mantenedor_Incidencia\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\HP SUPPORT\source\repos\Empresa-Galletera-T3\WindowsFormsApp1_Mantenedor_Incidencia\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\CapaIdentidad.dll
+C:\Users\HP SUPPORT\source\repos\Empresa-Galletera-T3\WindowsFormsApp1_Mantenedor_Incidencia\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\CapaLogica.dll
+C:\Users\HP SUPPORT\source\repos\Empresa-Galletera-T3\WindowsFormsApp1_Mantenedor_Incidencia\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\CapaDatos.dll
+C:\Users\HP SUPPORT\source\repos\Empresa-Galletera-T3\WindowsFormsApp1_Mantenedor_Incidencia\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\CapaIdentidad.pdb
+C:\Users\HP SUPPORT\source\repos\Empresa-Galletera-T3\WindowsFormsApp1_Mantenedor_Incidencia\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\CapaLogica.pdb
+C:\Users\HP SUPPORT\source\repos\Empresa-Galletera-T3\WindowsFormsApp1_Mantenedor_Incidencia\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\CapaDatos.pdb
+C:\Users\HP SUPPORT\source\repos\Empresa-Galletera-T3\WindowsFormsApp1_Mantenedor_Incidencia\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Detección automática de Incidencias.csproj.AssemblyReference.cache
+C:\Users\HP SUPPORT\source\repos\Empresa-Galletera-T3\WindowsFormsApp1_Mantenedor_Incidencia\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\HP SUPPORT\source\repos\Empresa-Galletera-T3\WindowsFormsApp1_Mantenedor_Incidencia\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Detección automática de Incidencias.csproj.GenerateResource.cache
+C:\Users\HP SUPPORT\source\repos\Empresa-Galletera-T3\WindowsFormsApp1_Mantenedor_Incidencia\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Detección automática de Incidencias.csproj.CoreCompileInputs.cache
+C:\Users\HP SUPPORT\source\repos\Empresa-Galletera-T3\WindowsFormsApp1_Mantenedor_Incidencia\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Detecci_.36FE7717.Up2Date
+C:\Users\HP SUPPORT\source\repos\Empresa-Galletera-T3\WindowsFormsApp1_Mantenedor_Incidencia\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\HP SUPPORT\source\repos\Empresa-Galletera-T3\WindowsFormsApp1_Mantenedor_Incidencia\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

@@ -4,3 +4,9 @@ C:\Users\HP SUPPORT\Downloads\WindowsFormsApp1_Mantenedor_Incidencia\WindowsForm
 C:\Users\HP SUPPORT\Downloads\WindowsFormsApp1_Mantenedor_Incidencia\WindowsFormsApp1\CapaIdentidad\obj\Debug\CapaIdentidad.csproj.CoreCompileInputs.cache
 C:\Users\HP SUPPORT\Downloads\WindowsFormsApp1_Mantenedor_Incidencia\WindowsFormsApp1\CapaIdentidad\obj\Debug\CapaIdentidad.dll
 C:\Users\HP SUPPORT\Downloads\WindowsFormsApp1_Mantenedor_Incidencia\WindowsFormsApp1\CapaIdentidad\obj\Debug\CapaIdentidad.pdb
+C:\Users\HP SUPPORT\source\repos\Empresa-Galletera-T3\WindowsFormsApp1_Mantenedor_Incidencia\WindowsFormsApp1\CapaIdentidad\bin\Debug\CapaIdentidad.dll
+C:\Users\HP SUPPORT\source\repos\Empresa-Galletera-T3\WindowsFormsApp1_Mantenedor_Incidencia\WindowsFormsApp1\CapaIdentidad\bin\Debug\CapaIdentidad.pdb
+C:\Users\HP SUPPORT\source\repos\Empresa-Galletera-T3\WindowsFormsApp1_Mantenedor_Incidencia\WindowsFormsApp1\CapaIdentidad\obj\Debug\CapaIdentidad.csproj.AssemblyReference.cache
+C:\Users\HP SUPPORT\source\repos\Empresa-Galletera-T3\WindowsFormsApp1_Mantenedor_Incidencia\WindowsFormsApp1\CapaIdentidad\obj\Debug\CapaIdentidad.csproj.CoreCompileInputs.cache
+C:\Users\HP SUPPORT\source\repos\Empresa-Galletera-T3\WindowsFormsApp1_Mantenedor_Incidencia\WindowsFormsApp1\CapaIdentidad\obj\Debug\CapaIdentidad.dll
+C:\Users\HP SUPPORT\source\repos\Empresa-Galletera-T3\WindowsFormsApp1_Mantenedor_Incidencia\WindowsFormsApp1\CapaIdentidad\obj\Debug\CapaIdentidad.pdb
