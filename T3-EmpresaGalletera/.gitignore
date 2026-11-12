@@ -1,0 +1,15 @@
+# Visual Studio temporary files
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Bb]uild/
+vs/
+.vs/
+*.user
+*.suo
+*.cache
