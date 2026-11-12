@@ -2,8 +2,8 @@
   <Folder Name="/Elementos de la solución/">
     <File Path=".gitignore" />
   </Folder>
-  <Project Path="CapaDatos/CapaDatos.csproj" />
-  <Project Path="CapaEntidad/CapaEntidad.csproj" />
-  <Project Path="CapaLogica/CapaLogica.csproj" />
+  <Project Path="CapaDatos/CapaDatos.csproj" Id="dc8f08d1-95f2-46f9-ac6e-36bf2372fa60" />
+  <Project Path="CapaEntidad/CapaEntidad.csproj" Id="86d3aeda-5c77-4e5f-b120-ee9cfa4e1fd9" />
+  <Project Path="CapaLogica/CapaLogica.csproj" Id="d03ba28a-5e42-4f43-b7d2-52ba2a9f4b54" />
   <Project Path="T3-EmpresaGalletera/SistemaMantenimiento.csproj" />
 </Solution>
