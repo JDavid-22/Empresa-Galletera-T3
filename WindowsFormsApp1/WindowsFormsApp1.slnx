@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Capa entidad/Capa entidad.csproj" Id="7d9e3978-8beb-48a6-9505-04a646dd692a" />
+  <Project Path="CapaDatos/CapaDatos.csproj" Id="32cc138e-0143-4a77-8e41-aaa4a1fa3a94" />
+  <Project Path="CapaLogica/CapaLogica.csproj" Id="7b65b699-81fd-4fc5-a5d0-f767cbb05289" />
+  <Project Path="WindowsFormsApp1/Propuestas de accion preventivas.csproj" Id="5e346b97-7100-42cc-8daf-f2a1d8ddf438" />
+</Solution>

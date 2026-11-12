@@ -1,0 +1,6 @@
+C:\Users\Edu Cachi\Desktop\moanso\analisis de historail de fallas\visual propuesta de accion\WindowsFormsApp1\Capa entidad\bin\Debug\Capa entidad.dll
+C:\Users\Edu Cachi\Desktop\moanso\analisis de historail de fallas\visual propuesta de accion\WindowsFormsApp1\Capa entidad\bin\Debug\Capa entidad.pdb
+C:\Users\Edu Cachi\Desktop\moanso\analisis de historail de fallas\visual propuesta de accion\WindowsFormsApp1\Capa entidad\obj\Debug\Capa entidad.csproj.AssemblyReference.cache
+C:\Users\Edu Cachi\Desktop\moanso\analisis de historail de fallas\visual propuesta de accion\WindowsFormsApp1\Capa entidad\obj\Debug\Capa entidad.csproj.CoreCompileInputs.cache
+C:\Users\Edu Cachi\Desktop\moanso\analisis de historail de fallas\visual propuesta de accion\WindowsFormsApp1\Capa entidad\obj\Debug\Capa entidad.dll
+C:\Users\Edu Cachi\Desktop\moanso\analisis de historail de fallas\visual propuesta de accion\WindowsFormsApp1\Capa entidad\obj\Debug\Capa entidad.pdb

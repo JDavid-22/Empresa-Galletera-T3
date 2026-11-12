@@ -1,0 +1,17 @@
+C:\Users\Edu Cachi\Desktop\moanso\analisis de historail de fallas\visual propuesta de accion\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Propuestas de accion preventivas.csproj.AssemblyReference.cache
+C:\Users\Edu Cachi\Desktop\moanso\analisis de historail de fallas\visual propuesta de accion\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Propuestas_de_accion_preventiva.Form1.resources
+C:\Users\Edu Cachi\Desktop\moanso\analisis de historail de fallas\visual propuesta de accion\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Edu Cachi\Desktop\moanso\analisis de historail de fallas\visual propuesta de accion\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Propuestas de accion preventivas.csproj.GenerateResource.cache
+C:\Users\Edu Cachi\Desktop\moanso\analisis de historail de fallas\visual propuesta de accion\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Propuestas de accion preventivas.csproj.CoreCompileInputs.cache
+C:\Users\Edu Cachi\Desktop\moanso\analisis de historail de fallas\visual propuesta de accion\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Edu Cachi\Desktop\moanso\analisis de historail de fallas\visual propuesta de accion\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Edu Cachi\Desktop\moanso\analisis de historail de fallas\visual propuesta de accion\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Edu Cachi\Desktop\moanso\analisis de historail de fallas\visual propuesta de accion\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Capa entidad.dll
+C:\Users\Edu Cachi\Desktop\moanso\analisis de historail de fallas\visual propuesta de accion\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\CapaLogica.dll
+C:\Users\Edu Cachi\Desktop\moanso\analisis de historail de fallas\visual propuesta de accion\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\CapaDatos.dll
+C:\Users\Edu Cachi\Desktop\moanso\analisis de historail de fallas\visual propuesta de accion\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Capa entidad.pdb
+C:\Users\Edu Cachi\Desktop\moanso\analisis de historail de fallas\visual propuesta de accion\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\CapaLogica.pdb
+C:\Users\Edu Cachi\Desktop\moanso\analisis de historail de fallas\visual propuesta de accion\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\CapaDatos.pdb
+C:\Users\Edu Cachi\Desktop\moanso\analisis de historail de fallas\visual propuesta de accion\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Propuest.043A2FB4.Up2Date
+C:\Users\Edu Cachi\Desktop\moanso\analisis de historail de fallas\visual propuesta de accion\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Edu Cachi\Desktop\moanso\analisis de historail de fallas\visual propuesta de accion\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
