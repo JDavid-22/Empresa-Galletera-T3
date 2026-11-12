@@ -2,8 +2,8 @@
   <Folder Name="/Elementos de la solución/">
     <File Path=".gitignore" />
   </Folder>
+  <Project Path="../WindowsFormsApp1_Mantenedor_Incidencia/WindowsFormsApp1/WindowsFormsApp1/Detección automática de Incidencias.csproj" Id="4cd2ef43-2ae7-4d8b-bf52-80a216a6a438" />
   <Project Path="CapaDatos/CapaDatos.csproj" />
   <Project Path="CapaEntidad/CapaEntidad.csproj" />
   <Project Path="CapaLogica/CapaLogica.csproj" />
-  <Project Path="T3-EmpresaGalletera/SistemaMantenimiento.csproj" />
 </Solution>
